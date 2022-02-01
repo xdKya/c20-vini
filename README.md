@@ -1,1 +1,2 @@
-# c20-vini
+# C20_boilerplate
+boilerplate for teacher activity
